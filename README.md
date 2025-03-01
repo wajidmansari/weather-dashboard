@@ -44,6 +44,6 @@ A simple web application that allows users to search for a city to get the curre
 
 
 ## Contributor:
-Sylvia Prabudy ©2020 All Rights Reserved.
+Wajid Ansari ©2024 All Rights Reserved.
 - - -
 
